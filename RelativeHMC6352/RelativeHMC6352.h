@@ -8,6 +8,7 @@
 #include "WProgram.h"
 #endif
 
+#include <../Wire/Wire.h>
 #include <cmath>
 
 class RelativeHMC6352
@@ -15,6 +16,7 @@ class RelativeHMC6352
 	public:
 		RelativeHMC6352();
         void set_north();
+        float real_north();
         float angle_raw();
         float angle();
 	private:
