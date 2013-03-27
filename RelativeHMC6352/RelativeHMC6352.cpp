@@ -43,6 +43,7 @@ float RelativeHMC6352::angle()
 
 void RelativeHMC6352::set_north()
 {
+    Wire.begin();
     _north = RelativeHMC6352::angle_raw();
 }
 

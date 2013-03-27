@@ -8,7 +8,7 @@
 #include "WProgram.h"
 #endif
 
-#include <../Wire/Wire.h>
+#include <Wire.h>
 #include <cmath>
 
 class RelativeHMC6352

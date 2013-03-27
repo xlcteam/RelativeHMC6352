@@ -1,4 +1,4 @@
-
+#include <Wire.h>
 #include <RelativeHMC6352.h>
 
 
@@ -8,7 +8,6 @@ void setup ()
 {
   Serial.begin(115200);
   compass.set_north();
-
 }
 
 void loop ()
