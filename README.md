@@ -16,8 +16,7 @@ If you wish to install it elsewhere, change the DEST variable.
 Usage
 -----
 
-See the example.
-
+See the example in `RelativeHMC6352/examples/RelativeHMC6352_demo/RelativeHMC6352_demo.ino`.
 
 Licence
 -------
@@ -25,4 +24,3 @@ Licence
 Licensed under the BSD License.
 
 (c) 2013, XLC Team
-
