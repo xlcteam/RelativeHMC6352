@@ -21,6 +21,6 @@ See the example in `RelativeHMC6352/examples/RelativeHMC6352_demo/RelativeHMC635
 Licence
 -------
 
-Licensed under the BSD License.
+Licensed under the [BSD License](http://opensource.org/licenses/BSD-3-Clause).
 
 (c) 2013, XLC Team
