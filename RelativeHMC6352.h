@@ -9,7 +9,7 @@
 #endif
 
 #include <Wire.h>
-#include <cmath>
+#include <math.h>
 
 class RelativeHMC6352
 {
