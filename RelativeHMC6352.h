@@ -16,6 +16,7 @@ class RelativeHMC6352
 	public:
 		RelativeHMC6352();
         void set_north();
+        void set_north_val(float val);
         float real_north();
         float angle_raw();
         float angle();
